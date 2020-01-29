@@ -1,0 +1,18 @@
+{
+    "name": "VFW.Examples.Editor",
+    "references": [
+        "VFW.Editor",
+        "VFW",
+        "VFW.Examples"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
